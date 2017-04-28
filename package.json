@@ -1,0 +1,19 @@
+{
+    "name": "distance_calculator_cli_app",
+    "version": "1.0.0",
+    "description": "distance between location calculator app demo",
+    "main": "distance.js",
+    "dependencies": {
+        "chalk": "^1.1.3",
+        "clui": "^0.3.1",
+        "figlet": "^1.2.0",
+        "inquirer": "^1.2.3",
+        "request": "^2.81.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "akande oladimej",
+    "license": "MIT"
+}
